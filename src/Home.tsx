@@ -158,6 +158,7 @@ const footerNavigation = {
 					viewBox="0 0 24 24"
 					stroke="currentColor"
 					stroke-width="2"
+					{...props}
 				>
 					<path
 						stroke-linecap="round"
