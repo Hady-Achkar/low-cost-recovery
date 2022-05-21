@@ -301,7 +301,7 @@ const Home = () => {
 								<div className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:px-0 lg:text-left lg:flex lg:items-center">
 									<div className="lg:py-24">
 										<a
-											href="tel:+90-544-172-09-79"
+											href="tel:+44-777-80-95-888"
 											className="inline-flex items-center text-white bg-black rounded-full p-1 pr-2 sm:text-base lg:text-sm xl:text-base hover:text-gray-200"
 										>
 											<span className="px-3 py-0.5 text-white text-xs font-semibold leading-5 uppercase tracking-wide bg-gradient-to-r from-teal-500 to-cyan-600 rounded-full">
@@ -513,7 +513,7 @@ const Home = () => {
 								<div className="mt-8">
 									<div className="inline-flex rounded-md shadow">
 										<a
-											href="tel:+90-544-172-09-79"
+											href="tel:+44-777-80-95-888"
 											className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
 										>
 											REACH US NOW
